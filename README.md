@@ -1,2 +1,1 @@
-# Aula-19
-Econometria Gerson
+# A19---Fun-o-I.-P.-VAR-
